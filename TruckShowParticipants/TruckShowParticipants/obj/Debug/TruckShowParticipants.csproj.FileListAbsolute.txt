@@ -1,0 +1,10 @@
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\bin\Debug\TruckShowParticipants.exe.config
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\bin\Debug\TruckShowParticipants.exe
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\bin\Debug\TruckShowParticipants.pdb
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\obj\Debug\TruckShowParticipants.csprojAssemblyReference.cache
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\obj\Debug\TruckShowParticipants.Form1.resources
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\obj\Debug\TruckShowParticipants.Properties.Resources.resources
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\obj\Debug\TruckShowParticipants.csproj.GenerateResource.cache
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\obj\Debug\TruckShowParticipants.csproj.CoreCompileInputs.cache
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\obj\Debug\TruckShowParticipants.exe
+C:\Users\nickr\source\repos\TruckShowParticipants\TruckShowParticipants\obj\Debug\TruckShowParticipants.pdb
